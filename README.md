@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MihtatKalayy
 - 👀 I’m interested in play games
-- 🌱 I’m currently learning C programming language
-- 💞️ I’m  not looking to collaborate on because I'm learning for C language and I'm newbie
+- 🌱 I’m currently learning C# programming language
+- 💞️ I’m  not looking to collaborate on because I'm learning for C# language and I'm newbie
 - 📫 How to reach me mihtatkalay@gmail.com
 
 <!---
